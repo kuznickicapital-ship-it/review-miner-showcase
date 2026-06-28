@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # ⛏ Review Miner
 
@@ -8,7 +8,7 @@
 [![Cost $0](https://img.shields.io/badge/cost-%240%20no%20API%20key-34d399?style=for-the-badge)](#)
 [![Built with Python](https://img.shields.io/badge/built%20with-Python%203.12-3776ab?style=for-the-badge&logo=python&logoColor=white)](#)
 
-### [▶️ Get it on Gumroad](#) &nbsp;`[Buy link — coming soon]`
+### [▶️ Get it on Gumroad](https://kuznicki6.gumroad.com/l/ffrdig)
 
 </div>
 
@@ -68,7 +68,7 @@ A Python + FastAPI backend talks to Ollama's local HTTP API. Reviews are parsed 
 
 ## ▶️ Get Review Miner
 
-`[Buy link — coming soon]` — a Gumroad listing for this tool isn't live yet.
+**[Get it on Gumroad →](https://kuznicki6.gumroad.com/l/ffrdig)** — $19, one-time.
 
 *This is a showcase repository — it contains the product overview and screenshots only. The full source is available with your purchase.*
 
